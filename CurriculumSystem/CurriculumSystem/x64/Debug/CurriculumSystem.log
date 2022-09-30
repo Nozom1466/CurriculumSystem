@@ -1,0 +1,8 @@
+﻿  systemCR.cpp
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\hashTable.hpp(103,15): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\hashTable.hpp(19): message : 在编译 类 模板 成员函数“HashTable<Curriculum>::HashTable(int)”时
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\nameTables.h(11): message : 查看对正在编译的函数 模板 实例化“HashTable<Curriculum>::HashTable(int)”的引用
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\nameTables.h(11): message : 查看对正在编译的 类 模板 实例化“HashTable<Curriculum>”的引用
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\hashTable.hpp(104,19): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+C:\Users\mts14\Desktop\tjoj\CurriculumSystem\CurriculumSystem\hashTable.hpp(105,20): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+  CurriculumSystem.vcxproj -> C:\Users\mts14\Desktop\tjoj\CurriculumSystem\x64\Debug\CurriculumSystem.exe
