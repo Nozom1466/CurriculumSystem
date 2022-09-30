@@ -1,3 +1,3 @@
 # CurriculumSystem
 
-## README file will be updated when the pdf report is completed.
+more details in the report
